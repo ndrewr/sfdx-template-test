@@ -1,4 +1,4 @@
-# Tython SFDX Project Template
+# TestProj Project
 
 ## Dev, Build and Test
 
